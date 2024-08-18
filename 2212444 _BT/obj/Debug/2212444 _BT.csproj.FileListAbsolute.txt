@@ -1,0 +1,10 @@
+C:\Users\Admin\Downloads\2212444_BaiTap\2212444 _BT\bin\Debug\2212444 _BT.exe.config
+C:\Users\Admin\Downloads\2212444_BaiTap\2212444 _BT\bin\Debug\2212444 _BT.exe
+C:\Users\Admin\Downloads\2212444_BaiTap\2212444 _BT\bin\Debug\2212444 _BT.pdb
+C:\Users\Admin\Downloads\2212444_BaiTap\2212444 _BT\obj\Debug\2212444 _BT.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\2212444_BaiTap\2212444 _BT\obj\Debug\_2212444__BT.Form1.resources
+C:\Users\Admin\Downloads\2212444_BaiTap\2212444 _BT\obj\Debug\_2212444__BT.Properties.Resources.resources
+C:\Users\Admin\Downloads\2212444_BaiTap\2212444 _BT\obj\Debug\2212444 _BT.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\2212444_BaiTap\2212444 _BT\obj\Debug\2212444 _BT.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\2212444_BaiTap\2212444 _BT\obj\Debug\2212444 _BT.exe
+C:\Users\Admin\Downloads\2212444_BaiTap\2212444 _BT\obj\Debug\2212444 _BT.pdb
